@@ -1,0 +1,13 @@
+.header-image {
+    max-width: 70%;
+    max-height: 70%;
+}
+
+#middle-text{
+    text-align: center;
+    padding: 2vh;
+}
+
+div {
+    text-align: center;
+}
